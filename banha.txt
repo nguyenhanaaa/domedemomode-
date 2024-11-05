@@ -2,4 +2,6 @@ ok test thu xem nhe
 
 ok da len gitgub r nhung co push len duoc khong? 
 
-ok bay gio test xung đột nhé it xem co duoc khong nhe
+
+ok bay gio xung đột xuất hiện thiệt xem co duoc khong nhe
+
