@@ -4,4 +4,4 @@ ok da len gitgub r nhung co push len duoc khong?
 
 
 ok bay gio xung đột xuất hiện thiệt xem co duoc khong nhe
-
+merge la nhu the nao? co can phai co lenh merge khong? 
